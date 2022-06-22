@@ -1,7 +1,9 @@
 .w-embed-youtubevideo {
   width: 100%;
-  display: block;
-  margin: auto;
+  position: relative;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
   background-image: url('https://d3e54v103j8qbb.cloudfront.net/static/youtube-placeholder.2b05e7d68d.svg');
   background-size: cover;
   background-position: 50% 50%;
