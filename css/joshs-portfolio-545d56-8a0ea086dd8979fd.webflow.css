@@ -3240,10 +3240,7 @@ figure {
 }
 
 .subhead {
-  margin-right: 59px;
-  margin-left: 111px;
-  padding-right: 0px;
-  padding-left: 0px;
+  text-align: center;
   font-size: 26px;
   line-height: 32px;
   font-weight: 400;
