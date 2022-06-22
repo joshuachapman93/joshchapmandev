@@ -3240,7 +3240,7 @@ figure {
 }
 
 .subhead {
-  margin-right: 145px;
+  margin-right: 59px;
   margin-left: 111px;
   padding-right: 0px;
   padding-left: 0px;
@@ -3248,6 +3248,15 @@ figure {
   line-height: 32px;
   font-weight: 400;
 }
+
+.subhead-2 {
+  margin-right: 145px;
+  margin-left: 111px;
+  padding-right: 0px;
+  padding-left: 0px;
+  font-size: 26px;
+  line-height: 32px;
+  font-weight: 400;
 
 .shape-1 {
   position: absolute;
