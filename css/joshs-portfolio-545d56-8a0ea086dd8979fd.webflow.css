@@ -10,6 +10,8 @@
 }
 
 .w-embed-youtubevideo:empty {
+  display: block;
+  margin: auto;
   min-height: 75px;
   padding-bottom: 56.25%;
 }
