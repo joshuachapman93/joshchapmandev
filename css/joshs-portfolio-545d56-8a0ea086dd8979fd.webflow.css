@@ -3251,7 +3251,7 @@ figure {
 .subhead {
   margin-right: -18px;
   margin-left: -20px;
-  padding-right: 0px;
+  padding-right: -15px;
   padding-left: 0px;
   font-size: 26px;
   line-height: 32px;
