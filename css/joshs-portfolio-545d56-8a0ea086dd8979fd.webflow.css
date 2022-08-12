@@ -3348,7 +3348,7 @@ figure {
 }
 
 .flex-lottie {
-  position: fixed;
+  position: absolute;
   left: 0%;
   top: auto;
   right: 0%;
@@ -3373,7 +3373,6 @@ figure {
 }
 
 .lottie-animation {
-  position: fixed;
   width: 40px;
   margin-right: 952px;
   margin-left: auto;
